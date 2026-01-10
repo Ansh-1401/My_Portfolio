@@ -7,7 +7,7 @@ const projects = [
     desc: "A modern, responsive developer portfolio built with React, Tailwind CSS, and Vite featuring smooth UI, animations, project showcase, and a working contact form.",
     image: "https://i.postimg.cc/wT8h9XyL/Screenshot-(515).png",
     tech: ["React.js", "Tailwind CSS", "JavaScript", "HTML", "CSS", "EmailJS"],
-    github: "https://github.com/Ansh-1401/your-portfolio-repo",
+    github: "https://github.com/Ansh-1401/My_Portfolio",
     live: "https://your-portfolio-live-link.com",
     accent: "blue",
     showLive: true,

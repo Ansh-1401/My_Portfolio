@@ -8,7 +8,7 @@ const projects = [
     image: "https://i.postimg.cc/wT8h9XyL/Screenshot-(515).png",
     tech: ["React.js", "Tailwind CSS", "JavaScript", "HTML", "CSS", "EmailJS"],
     github: "https://github.com/Ansh-1401/My_Portfolio",
-    live: "https://your-portfolio-live-link.com",
+    live: "https://ansh-portfolio-73jq.onrender.com",
     accent: "blue",
     showLive: true,
   },

@@ -139,7 +139,7 @@ const About = () => {
                          hover:border-blue-500 hover:-translate-y-1
                          hover:shadow-lg hover:shadow-blue-500/30"
             >
-              <h3 className="text-4xl font-bold text-blue-500">5+</h3>
+              <h3 className="text-4xl font-bold text-blue-500">3+</h3>
               <p className="mt-2 text-gray-400 text-sm">Projects Completed</p>
             </div>
 

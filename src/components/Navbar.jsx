@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { HiMenuAlt3, HiX } from "react-icons/hi";
+import { HiBars3, HiXMark } from "react-icons/hi2";
 
 const Navbar = () => {
   const [open, setOpen] = useState(false);
@@ -14,11 +14,10 @@ const Navbar = () => {
   return (
     <nav className="fixed top-0 w-full z-50 bg-[#0b0f19]/70 backdrop-blur border-b border-gray-800">
       <div className="max-w-7xl mx-auto px-8 py-4 flex items-center justify-between">
-        
         {/* LEFT: LOGO */}
         <a href="#home" className="flex items-center gap-2">
           <div className="w-9 h-9 flex items-center justify-center rounded-full bg-gradient-to-r from-blue-500 to-purple-500 text-white font-bold">
-            {"AS"}
+            AS
           </div>
           <span className="text-lg font-bold text-white">ANSH</span>
         </a>
@@ -54,8 +53,9 @@ const Navbar = () => {
         <button
           onClick={() => setOpen(!open)}
           className="md:hidden text-white text-3xl"
+          aria-label="Toggle Menu"
         >
-          {open ? <HiX /> : <HiMenuAlt3 />}
+          {open ? <HiXMark /> : <HiBars3 />}
         </button>
       </div>
 

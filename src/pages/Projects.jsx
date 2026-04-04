@@ -23,6 +23,16 @@ const projects = [
     showLive: true,
   },
   {
+    title: "QBito (QR-Based Food Ordering System)",
+    desc: "Qbito is a smart QR-based restaurant ordering platform that lets customers scan, browse menus, place orders, and pay seamlessly—while restaurants manage everything in real time.",
+    image: "https://i.postimg.cc/288FnhPN/Screenshot-(524).png",
+    tech: ["React.js", "Spring Boot", "PostgreSQL", "REST API", "Render"],
+    github: "https://github.com/Ansh-1401/qbito_frontend",
+    live: "https://qbito-frontend.onrender.com",
+    accent: "purple",
+    showLive: true,
+  },
+  {
     title: "ATM Simulator System",
     desc: "Developed a desktop-based ATM Simulator using Java Swing with modern UI screens.",
     image: "https://i.postimg.cc/jdB8bYsM/atm.jpg",

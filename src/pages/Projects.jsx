@@ -3,12 +3,12 @@ import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 // ✅ Your Projects List
 const projects = [
   {
-    title: "Portfolio Website",
-    desc: "A modern, responsive developer portfolio built with React, Tailwind CSS, and Vite featuring smooth UI, animations, project showcase, and a working contact form.",
-    image: "https://i.postimg.cc/wT8h9XyL/Screenshot-(515).png",
-    tech: ["React.js", "Tailwind CSS", "JavaScript", "HTML", "CSS", "EmailJS"],
-    github: "https://github.com/Ansh-1401/My_Portfolio",
-    live: "https://ansh-portfolio-73jq.onrender.com",
+    title: "TaskManager Website",
+    desc: "A full-stack Kanban task manager with AI-powered task estimates, built using React and Spring Boot.",
+    image: "https://i.postimg.cc/fR7386Jv/Screenshot-(529).png",
+    tech: ["React.js", "Spring Boot", "PostgreSQL", "REST API", "Render"],
+    github: "https://github.com/Ansh-1401/taskmanager_frontend",
+    live: "https://taskmanager-frontend-koiw.onrender.com",
     accent: "blue",
     showLive: true,
   },
@@ -25,11 +25,21 @@ const projects = [
   {
     title: "QBito (QR-Based Food Ordering System)",
     desc: "Qbito is a smart QR-based restaurant ordering platform that lets customers scan, browse menus, place orders, and pay seamlessly—while restaurants manage everything in real time.",
-    image: "https://i.postimg.cc/288FnhPN/Screenshot-(524).png",
+    image: "https://i.postimg.cc/1X46TML7/Screenshot-(524).png",
     tech: ["React.js", "Spring Boot", "PostgreSQL", "REST API", "Render"],
     github: "https://github.com/Ansh-1401/qbito_frontend",
     live: "https://qbito-frontend.onrender.com",
     accent: "purple",
+    showLive: true,
+  },
+  {
+    title: "Portfolio Website",
+    desc: "A modern, responsive developer portfolio built with React, Tailwind CSS, and Vite featuring smooth UI, animations, project showcase, and a working contact form.",
+    image: "https://i.postimg.cc/wT8h9XyL/Screenshot-(515).png",
+    tech: ["React.js", "Tailwind CSS", "JavaScript", "HTML", "CSS", "EmailJS"],
+    github: "https://github.com/Ansh-1401/My_Portfolio",
+    live: "https://ansh-portfolio-73jq.onrender.com",
+    accent: "blue",
     showLive: true,
   },
   {

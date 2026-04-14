@@ -92,7 +92,7 @@ const Home = () => {
               </a>
 
               <a
-                href="https://drive.google.com/file/d/19lBjKHnbsgaHpbMFEu91IvilSP_pLSj-/view?usp=drive_link/"
+                href="https://drive.google.com/file/d/1yYNolX71VCuhsw0xAI1Z4fzEYqwsvDnl/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-3 rounded-lg font-semibold

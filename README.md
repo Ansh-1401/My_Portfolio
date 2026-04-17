@@ -1,16 +1,69 @@
-# React + Vite
+# 🌐 Ansh Srivastava Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Live Demo: https://ansh-portfolio-73jq.onrender.com/
 
-Currently, two official plugins are available:
+## 📌 About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is my personal portfolio website built to showcase my skills, projects, and experience as a Full Stack Developer.
 
-## React Compiler
+It highlights my work in **React, Java, Spring Boot, and Web Development**.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+* Responsive UI (Mobile + Desktop)
+* Smooth navigation
+* Project showcase section
+* Contact section
+* Clean and modern design
+
+## 📸 Screenshots
+
+![Home Page](/public/screenshots/Port.png)
+![About Page](/public/screenshots/About.png)
+![Skill Page](/public/screenshots/Skill.png)
+![Project Page](/public/screenshots/Project.png)
+
+
+
+## 📂 Project Structure
+
+* `/src` → React components
+* `/public` → Static assets
+* `/assets` → Images and icons
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Ansh-1401/My_Portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project:
+
+```bash
+npm run dev
+```
+
+## 📬 Contact Me
+
+* Email: [anshsriv.job@gmail.com](mailto:anshsriv.job@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/ansh-srivastava-b8b057292
+
+---
+
+⭐ If you like this project, consider giving it a star!

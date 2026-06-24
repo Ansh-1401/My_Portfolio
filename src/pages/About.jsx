@@ -37,11 +37,11 @@ const About = () => {
               className={`leading-relaxed transition-all duration-700 ease-out delay-100
               ${showText ? "opacity-100 translate-y-0" : "opacity-0 translate-y-6"}`}
             >
-              I’m a passionate Full-Stack Web Developer and a Computer Science
-              undergraduate currently pursuing my B.Tech from IMS Engineering
-              College, Ghaziabad. I love turning ideas into functional and
-              user-friendly web applications, with core expertise in React and
-              Java.
+              I’m a passionate Full-Stack Web Developer and Computer Science graduate 
+              from IMS Engineering College, Ghaziabad. I love turning ideas into functional 
+              and user-friendly web applications, with core expertise in React.js, Java, 
+              and Spring Boot. I enjoy solving real-world problems through clean, efficient,
+              and scalable software solutions.
             </p>
 
             {/* Animated Paragraph 2 */}
@@ -80,7 +80,7 @@ const About = () => {
                     B.Tech (Computer Science & Engineering)
                   </h4>
                   <p className="text-sm text-gray-400">
-                    IMS Engineering College, Ghaziabad • Final Year • CGPA 7.0
+                    Computer Science & Engineering Graduate (B.Tech) • IMS Engineering College, Ghaziabad • Class of 2026 • CGPA: 7.1
                   </p>
                 </div>
               </div>
